@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @lf-iacob
 - 🌱 I’m currently learning computational methods for physics at university of Perugia.
-- 💞️ I’m looking to collaborate on theoretical physics.
+- 💞️ I’m an aspirant experimental particle physicist.
 - 📫 How to reach me: iacob.laura.f@gmail.com, laurafrancesca.iacob@studenti.unipg.it
 - 🧚🏻‍♀️ I love reading, playing the guitar and drawing.
-- ⚡ Fun fact: I never thought I could be here in my life.
 
 <!---
 lf-iacob/lf-iacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
