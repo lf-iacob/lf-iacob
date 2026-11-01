@@ -1,6 +1,6 @@
 Hi, I’m @lf-iacob :)
 - 🥀 I’m currently studying Elementary Particle Physics at University of Perugia.
-- 👩🏻‍💻 How to reach me: iacob.laura.f@gmail.com, laurafrancesca.iacob@studenti.unipg.it.
+- 👩🏻‍💻 How to reach me: iacob.laura.f@gmail.com.
 - 🎸🎨 I love reading, playing the guitar/flute and drawing/painting.
 
 <!---
